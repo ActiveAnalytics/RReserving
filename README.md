@@ -3,7 +3,7 @@ RReserving: A package for Actuarial Pricing
 
 # Introduction
 
-Welcome to the **RReserving** R package for carrying out actuarial reserving. This version of the package contains an algorithm for the Chain Ladder method based on Thomas Mack's 1999 paper <http://casualtyactuarialsociety.net/library/astin/vol29no2/361.pdf>.
+Welcome to the **RReserving** R package for carrying out actuarial reserving. This version of the package contains an algorithm for the Chain Ladder method based on Thomas Mack's 1999 paper <http://casualtyactuarialsociety.net/library/astin/vol29no2/361.pdf>. Note the name change from the initial announcement here <http://www.active-analytics.com/blog/productlaunch-actuarial-reserving/>.
 
 ## Installation
 
@@ -174,3 +174,5 @@ output$F.se
 We hope that the next or future updates of the R RReserving package will provide tools to carry out the Bornhuetter-Ferguson.
 
 
+### Contact Details
+Chibisi Chima-Okereke: chibisi@activeanalytics.co.uk
