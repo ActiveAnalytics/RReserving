@@ -5,6 +5,16 @@ RReserving: A package for Actuarial Pricing
 
 Welcome to the **RReserving** R package for carrying out actuarial reserving. This version of the package contains an algorithm for the Chain Ladder method based on Thomas Mack's 1999 paper <http://casualtyactuarialsociety.net/library/astin/vol29no2/361.pdf>.
 
+## Installation
+
+The package can be installed directly from GitHub using the devtools package:
+
+```
+require(devtools)
+install_github("ActiveAnalytics/RReserving")
+require(RReserving)
+```
+
 # Emphasis
 
 The emphasis of the packages is on performance and content. All the components in the papers are calculated and the calculations in the R package are written in `C++` using the `Rcpp` & `RcppArmadillo` <http://www.rcpp.org/> packages.
