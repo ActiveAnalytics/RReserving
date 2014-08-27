@@ -7,7 +7,7 @@ Welcome to the **RReserving** R package for carrying out actuarial reserving. Th
 
 ## Installation
 
-The package can be installed directly from GitHub using the devtools package:
+The package can be installed directly from GitHub using the devtools <https://github.com/hadley/devtools> package:
 
 ```
 require(devtools)
