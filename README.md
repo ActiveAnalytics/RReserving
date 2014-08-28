@@ -175,7 +175,7 @@ output$F.se
 
 ## Future Updates
 
-We hope that the next or future updates of the R RReserving package will provide tools to carry out the Bornhuetter-Ferguson.
+We hope that the next or future updates of the R RReserving package will provide tools to carry out the Bornhuetter-Ferguson method.
 
 
 ### Contact Details
