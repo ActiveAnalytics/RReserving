@@ -7,7 +7,7 @@ Welcome to the **RReserving** R package for carrying out actuarial reserving. Th
 
 ## ChainLadder vs RReserving
 
-Please note that this package is **NOT** intended to be a replacement for the `ChainLadder` package <http://cran.r-project.org/web/packages/ChainLadder/>. This package does a tiny fraction of what the `ChainLadder` package does. The ChainLadder package has methods for Chain Ladder, bootstrapping, GLM, Cape Cod, Clark LDF, Multivariate Chain Ladder, etc. At the moment, we only have one method equivalent to the `MackChainLadder` function in the `ChainLadder` package but we get there very quickly indeed as the benchmark shows.
+Please note that this package is **NOT** intended to be a replacement for the `ChainLadder` package <http://cran.r-project.org/web/packages/ChainLadder/>. This package does a tiny fraction of what the `ChainLadder` package does. The ChainLadder package has methods for Chain Ladder, bootstrapping, GLM, Cape Cod, Clark LDF, Multivariate Chain Ladder, plotting, etc. At the moment, we only have one method equivalent to the `MackChainLadder` function in the `ChainLadder` package but we get there very quickly indeed as the benchmark shows.
 
 ## Installation
 
