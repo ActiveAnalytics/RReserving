@@ -5,6 +5,8 @@ RReserving: A package for Actuarial Pricing
 
 Welcome to the **RReserving** R package for carrying out actuarial reserving. This version of the package contains an algorithm for the Chain Ladder method based on Thomas Mack's 1999 paper <http://casualtyactuarialsociety.net/library/astin/vol29no2/361.pdf>. Note the name change from the initial announcement here <http://www.active-analytics.com/blog/productlaunch-actuarial-reserving/>.
 
+## ChainLadder vs RReserving
+
 Please note that this package is NOT intended to be a replacement for the `ChainLadder` package. This package does a tiny fraction of what the `ChainLadder` package does. The ChainLadder package has methods for Chain Ladder, bootstrapping, GLM, Cape Cod, Clark LDF, Multivariate Chain Ladder, etc. At the moment, we only have one method equivalent to the `MackChainLadder` function in the `ChainLadder` package but we get there very quickly indeed as the benchmark shows.
 
 ## Installation
