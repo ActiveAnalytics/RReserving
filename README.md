@@ -1,4 +1,4 @@
-RReserving: A package for Actuarial Pricing
+RReserving: A package for Actuarial Reserving
 ==========================================
 
 # Introduction
